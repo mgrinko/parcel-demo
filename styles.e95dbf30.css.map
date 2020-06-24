@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,KACE","file":"styles.e95dbf30.css","sourceRoot":"../src","sourcesContent":["$bgcolor: yellow;\n\nbody {\n  background-color: $bgcolor;\n}\n"]}
